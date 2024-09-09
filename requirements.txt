@@ -1,1 +1,9 @@
-# Required dependencies
+beautifulsoup4
+requests
+pandas
+matplotlib
+scikit-learn
+Flask  # or streamlit, choose based on your web framework
+nltk  # or textblob, choose based on the NLP approach
+PyYAML
+pytest
